@@ -1,0 +1,1 @@
+temperature_object.rb
